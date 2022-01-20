@@ -3,9 +3,9 @@
 /* CSS Document*/
 
 body{
-	background: #B4C7CD;
-	font-weight: normal;
-	color:#15430E;
+      background: #B4C7CD;
+      font-weight: normal;
+      color:#15430E;
 }
 
 h2 {
@@ -13,6 +13,11 @@ h2 {
       font-weight: bold;
       font-style: italic;
    }
+h3{
+      color: blue;
+      font-weight: bold;
+      font-style: italic;	
+}
 p{
 	color: #512F13;
    }
