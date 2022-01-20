@@ -29,3 +29,4 @@ console.log("Valor de a: ", a); //undefined
 // Nota: Estos valores de las variables se pueden cambiar en consola temporalmente pero no se
 //guardaran en el archivo original o programa que las creo
 console.log("Nuevo valor de a: ",a);
+console.log("ültima modificación");
